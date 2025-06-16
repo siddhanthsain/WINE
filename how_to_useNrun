@@ -1,0 +1,5 @@
+step 1: go to original_dataset file---> copy the url and open it on the browser and download the data set---> save the dataset locally in your system
+step 2: go to main.ipynb file and follow the instructions
+step 3: for dashboard use, go to the dashboard.ipynb file and follow the instructions
+
+you will see the output as it shown in the other files
