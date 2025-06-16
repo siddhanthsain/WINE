@@ -1,0 +1,3 @@
+#copy this url and open this dataset in your browser
+
+https://www.kaggle.com/datasets/sloozecareers/slooze-challenge/data
