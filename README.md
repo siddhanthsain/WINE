@@ -1,3 +1,5 @@
+MOST IMPORTANT IS HOW TO USE: FOR THIS SEARCH FOR how_to_useNrun file amongts this many files and follow the instructions
+
 STRUCTURE
 ├── data/                   # Input and processed CSVs
 ├── notebooks/              # Jupyter notebooks (EDA + Dashboard)
